@@ -1,5 +1,7 @@
 # Curiosity Data Analysis
 
+<div style="text-align:center"><img src ="images/arte-final-sem-fundo.png" /></div>
+
 Repository containing the official page of Organization **Curiosity Data Analysis**
 
 [Official Page](https://curiosity-data-analysis.github.io/)
