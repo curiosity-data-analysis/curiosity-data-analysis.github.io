@@ -1,6 +1,6 @@
 # Curiosity Data Analysis
 
-<div style="text-align:center"><img src ="images/arte-final-sem-fundo.png" width:50%;  /></div>
+<div style="text-align:center"><img src ="img/arte-final-sem-fundo.png" width:50%;  /></div>
 
 Repository containing the official page of Organization **Curiosity Data Analysis**
 
